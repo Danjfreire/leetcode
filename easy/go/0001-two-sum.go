@@ -1,5 +1,3 @@
-package twoSum
-
 // O(n)
 func twoSum(nums []int, target int) []int {
    diffMap:= make(map[int]int) 
